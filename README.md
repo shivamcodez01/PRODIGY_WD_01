@@ -4,7 +4,7 @@ Prodigy InfoTech - Task 01: Responsive Landing Page
 Task 01 for Prodigy InfoTech Web Development Internship (December 2025)
 
 **Live Demo**  
-
+https://shivamcodez01.github.io/PRODIGY_WD_01/
 
 ## Features
 - Fixed header that changes on scroll
@@ -17,9 +17,8 @@ Task 01 for Prodigy InfoTech Web Development Internship (December 2025)
 HTML5, CSS3, Vanilla JavaScript
 
 ## How to run locally
-1. Clone:
-git clone 
-2. ``
+1. Clone: git clone https://github.com/shivamcodez01/PRODIGY_WD_01.git
+2. `cd PRODIGY_WD_01`
 3. Open `index.html` in your browser or run a simple static server.
 
 ## Deployment
